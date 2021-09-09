@@ -20,7 +20,7 @@ Sleeping is an underappreciated art. Nothing truly beats a night of blissful sle
 
 ### 1. Schedule night mode on your devices 3 hours before your usual/targeted bedtime.
 - Devices emit blue light which surpresses the body's release of melatonin, the hormone that makes us feel drowsy. 
-- To this point you might want to avoid your phone closer to bedtime. 
+- You might want to avoid your phone closer to bedtime. 
 ### 2. Identify a dark, cool, and quiet space where you can sleep in 
 - This is usually a bedroom but a couch can always work in a pinch.
 - Keeping the room dark lets the brain and body know its nighttime.
