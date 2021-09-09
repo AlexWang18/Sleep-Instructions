@@ -37,8 +37,8 @@ Sleeping is an underappreciated art. Nothing beats a night of blissful sleep and
 
 - Keep your room cool, ideal temperatures are between 60-70° Fahrenheit.
 -    Use earplugs for peaceful sleep if you live in a noisy area.
--    Blackout curtains or a sleep mask keep your room darker for longer.
+-    Keep your room darker for longer with a sleep mask or blackout curtains.
 -    Wash your sheets.
--    Don't eat a huge meal before bed, the process of digesting can be uncomfortable.
+-    Don't eat a huge meal before bed.
 -    Exercise during the day!
 -    Avoid caffiene later in the day. 
