@@ -7,7 +7,7 @@ Do you have trouble sleeping? Are you haunted daily by sleepless nights? Don't w
 ---
 # Theory
 
-Sleeping is an underappreciated art. Nothing truly beats a night of blissful sleep and the science backs it up. When you are running low on sleep you will have a harder time recalling things, be more susceptible to illnesses, and even may develop mood disorders. On the contrary, studies shows a *healthy amount* of sleep leads to a more general sense of well being, a healthier heart, and better performance athletically. 
+Sleeping is an underappreciated art. Nothing truly beats a night of blissful sleep and the science backs it up. When you are running low on sleep you will have a harder time recalling things, be more susceptible to illnesses, and even may develop mood disorders. Studies shows a *healthy amount* of sleep leads to a more general sense of well being, a healthier heart, and better performance athletically. 
 
 ---
 # Prerequisites
@@ -18,10 +18,10 @@ Sleeping is an underappreciated art. Nothing truly beats a night of blissful sle
 ---
 # Steps
 
-### 1. Schedule night mode on your devices 3 hours before your usual/targeted bedtime.
+### 1. Schedule night mode on your devices 3 hours before your targeted bedtime.
 - Devices emit blue light which surpresses the body's release of melatonin, the hormone that makes us feel drowsy. 
 - You might want to avoid your phone closer to bedtime. 
-### 2. Identify a dark, cool, and quiet space where you can sleep in 
+### 2. Identify a dark, cool, and quiet space
 - This is usually a bedroom but a couch can always work in a pinch.
 - Keeping the room dark lets the brain and body know its nighttime.
 ### 3. Find a comfortable sleeping position
@@ -29,17 +29,17 @@ Sleeping is an underappreciated art. Nothing truly beats a night of blissful sle
 ### 4. Do relaxation exercises
 - Breathing exercises like the 4-7-8 where you breathe in for 4 seconds, hold the breath for 7 seconds, and exhale for 8 seconds practice mindfullness and can help you destress.
 - Counting down slowly from 100 is another popular exercise.
-- ASMR can also be used to relax 
+- Use ASMR to relax.
 ### 5. Sleep!
 - The number one way to sleep is to have a consistent sleeping pattern and schedule
 - Our body follows a circadian rhythm which is a 24.5 hour cycle who's primary funcion is to determine if it is time to sleep. 
 ---
 # Tips
 
-- Keep your room cool, ideal temperatures are between 60-70° Fahrenheit
+- Keep your room cool, ideal temperatures are between 60-70° Fahrenheit.
 -    Use earplugs to ensure your sleep is peaceful if you live in a noisy area.
 -    Blackout curtains or a sleep mask will keep your room darker for longer.
--    Wash your sheets
+-    Wash your sheets.
 -    Don't eat a huge meal before bed, the process of digesting can be uncomfortable.
 -    Excercise during the day!
 -    Avoid caffiene later in the day. 
